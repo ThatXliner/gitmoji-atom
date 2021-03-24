@@ -1,9 +1,13 @@
 {
   "name": "gitmoji-atom",
   "main": "./lib/gitmoji-atom",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Gitmojis for Atom",
-  "keywords": ["gitmoji", "commit", "emoji"],
+  "keywords": [
+    "gitmoji",
+    "commit",
+    "emoji"
+  ],
   "activationCommands": {
     "atom-workspace": "gitmoji-atom:show"
   },
