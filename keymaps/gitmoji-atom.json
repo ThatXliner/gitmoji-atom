@@ -1,0 +1,8 @@
+{
+  ".platform-darwin atom-workspace": {
+    "cmd-shift-C": "gitmoji-atom:show"
+  },
+  "atom-workspace": {
+    "ctrl-alt-c": "gitmoji-atom:show"
+  }
+}

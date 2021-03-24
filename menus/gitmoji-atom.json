@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Show gitmoji-atom",
+        "command": "gitmoji-atom:show"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "gitmoji-atom",
+          "submenu": [
+            {
+              "label": "Show",
+              "command": "gitmoji-atom:show"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
