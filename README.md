@@ -7,7 +7,7 @@
 
 ---
 
-This is the (unofficial) Atom port of the [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=Vtrois.gitmoji-vscode)
+This is the Atom port of the [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=Vtrois.gitmoji-vscode). No more need to search through [gitmoji.dev](https://gitmoji.dev/)!
 
 ## Installation
 
