@@ -33,7 +33,7 @@ Select and press <kbd>enter</kbd> when you find the desired emoji.
 
 ## Features
 
- - Up-to-date Gitmojis via [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) (as opposed to [vendored files](https://github.com/vtrois/gitmoji-vscode/blob/main/src/gitmoji/gitmoji.ts))
+ - Up-to-date Gitmojis via [the npm package](https://www.npmjs.com/package/gitmojis) (as opposed to [vendored files](https://github.com/vtrois/gitmoji-vscode/blob/main/src/gitmoji/gitmoji.ts))
  - Intuitive search dropdown via [atom-select-list](https://github.com/atom/atom-select-list)
  - Ability to insert text **into Atom's git commit editor**
  - Customizable settings
