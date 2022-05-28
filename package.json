@@ -1,7 +1,7 @@
 {
   "name": "gitmoji-atom",
   "main": "./lib/gitmoji-atom",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Gitmojis for Atom",
   "keywords": [
     "gitmoji",
